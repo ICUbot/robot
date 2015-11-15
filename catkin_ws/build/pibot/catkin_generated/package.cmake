@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "pibot")
+set(pibot_MAINTAINER "pi <pi@todo.todo>")
+set(pibot_DEPRECATED "")
+set(pibot_VERSION "0.0.0")
+set(pibot_BUILD_DEPENDS "roscpp" "rospy" "stdmsgs")
+set(pibot_RUN_DEPENDS "roscpp" "rospy" "stdmsgs")
+set(pibot_BUILDTOOL_DEPENDS "catkin")

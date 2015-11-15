@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/devel
+
+Name: pibot
+Description: Description of pibot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/catkin_ws/devel/lib 
+Requires: 
